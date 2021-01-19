@@ -5,7 +5,7 @@ The image_to_csv.ipynb file contains the python code to convert the cell images 
 
 The predictor.ipynb file contains the code to build the k-means and random forest models and compare them with certain metrics.
 
-# how ,the image is converted to a readable formate
+# method used to convert the images into readable format 
 
 the image is converted to gray scale , gauscian blur is applied , 5 countours are detected and area of 5 coutours are calculated. and stored in a csv file.
 
